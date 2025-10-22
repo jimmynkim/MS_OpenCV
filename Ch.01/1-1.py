@@ -1,3 +1,4 @@
+### Ch.01 OpenCV 개요와 환경 구축
 ## 이미지 전처리(OpenCV)가 잘 작동되는지 실습 환경 구축
 import cv2 as cv
 import sys

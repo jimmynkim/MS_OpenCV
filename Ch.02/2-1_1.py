@@ -1,3 +1,4 @@
+### Ch.02 OpenCV 기본기능 연습하기
 ## 이미지 파일 읽고, 표시하고, 저장하기
 import cv2 as cv     # OpenCV 라이브러리 가져오기
 import sys     # 시스템 종료 등의 기능을 위한 sys 모듈 가져옴
