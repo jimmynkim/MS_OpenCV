@@ -6,7 +6,7 @@ img = cv.imread('Ch.02/girl.jpg')
 
 if img is None:
     sys.exit('File Not Found') 
-    
+
 # 이미지에 사각형 그리기 (최상단(330,470), 우하단(530,640), 파란색, 두께 3)
 cv.rectangle(img, (330, 470), (530, 640), color=(255, 0, 0), thickness=3)
 
